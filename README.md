@@ -146,6 +146,7 @@ Screenshots
 <img src="screenshots/inventory_bars.png" alt="Inventory Optimization">
 (Add your actual images to /screenshots/ folder.)
 Contributing
+at current you can see from code:https://github.com/nawalkumar/Inventory-management-system-Data-Cleaning-ML-AI-/blob/main/Intelligent_Forecasting_and_Inventory_Management_System.ipynb
 
 Fork the repo.
 Create a feature branch (git checkout -b feature/AmazingFeature).
