@@ -124,26 +124,31 @@ Implemented and compared multiple models:
 ```bash
 git clone https://github.com/yourusername/intelligent-forecasting-inventory.git
 cd intelligent-forecasting-inventory
+```
 
 2️⃣ Create Virtual Environment
+```
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
+```
 3️⃣ Install Dependencies
+```
 pip install -r requirements.txt
+```
 ▶️ Usage
 
 Run modules step-by-step:
 
-🔹 1. Data Cleaning & EDA
-jupyter notebook eda.ipynb
-🔹 2. Forecasting
-jupyter notebook forecasting.ipynb
-🔹 3. Clustering & Recommendations
-jupyter notebook insights.ipynb
-🔹 4. Inventory Optimization
-jupyter notebook optimization.ipynb
-🔹 5. Generate Report
-python generate_report.py
+    🔹 1. Data Cleaning & EDA
+    jupyter notebook eda.ipynb
+    🔹 2. Forecasting
+    jupyter notebook forecasting.ipynb
+    🔹 3. Clustering & Recommendations
+    jupyter notebook insights.ipynb
+    🔹 4. Inventory Optimization
+    jupyter notebook optimization.ipynb
+    🔹 5. Generate Report
+# python generate_report.py
 📈 Sample Results
 📊 Monthly Sales Peak: $5,205
 📅 Forecast (Next Month): ~$5,500
