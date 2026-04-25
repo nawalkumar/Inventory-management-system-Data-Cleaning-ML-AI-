@@ -111,7 +111,7 @@ Implemented and compared multiple models:
 
 ## 📂 Project Structure
 ```
-<img width="347" height="353" alt="image" src="https://github.com/user-attachments/assets/98bb6f74-db82-46be-a369-32d13f70f449" />
+same as shown in github main branch
 
 ```
 
