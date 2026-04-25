@@ -1,10 +1,10 @@
-# 🚀 Intelligent Forecasting & Inventory Management System
+#  Intelligent Forecasting & Inventory Management System
 
 An end-to-end **Data Science + Machine Learning** solution designed to optimize retail and supply chain operations through demand forecasting, customer segmentation, and inventory optimization.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project leverages historical sales data to build a **smart inventory management system** that:
 
@@ -16,7 +16,7 @@ This project leverages historical sales data to build a **smart inventory manage
 
 ---
 
-## 💼 Business Impact
+##  Business Impact
 
 - 📉 **15–20% reduction in holding costs**
 - 📦 **25% reduction in stockouts**
