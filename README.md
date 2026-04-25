@@ -111,7 +111,7 @@ Implemented and compared multiple models:
 
 ## 📂 Project Structure
 ```
-<img width="362" height="458" alt="image" src="https://github.com/user-attachments/assets/de2e967a-2780-412c-ae90-61ba1f9adf8e" />
+<img width="347" height="353" alt="image" src="https://github.com/user-attachments/assets/98bb6f74-db82-46be-a369-32d13f70f449" />
 
 ```
 
@@ -149,19 +149,19 @@ Run modules step-by-step:
     jupyter notebook optimization.ipynb
     🔹 5. Generate Report
 # python generate_report.py
-📈 Sample Results
-📊 Monthly Sales Peak: $5,205
-📅 Forecast (Next Month): ~$5,500
-📉 Cost Optimization: 50% savings
-👥 Customer Segment: Majority "Champions"
-📸 Screenshots
+    📈 Sample Results
+    📊 Monthly Sales Peak: $5,205
+    📅 Forecast (Next Month): ~$5,500
+    📉 Cost Optimization: 50% savings
+    👥 Customer Segment: Majority "Champions"
+    📸 Screenshots
 
-Add images in /screenshots folder
+Add result in .csv formet
 
-Monthly Trends
-Forecast Graph
-Dashboard Overview
-Inventory Optimization
+  Monthly Trends
+  Forecast Graph
+  Dashboard Overview
+  Inventory Optimization
 🔗 Project Link
 
 👉 Notebook:
